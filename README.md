@@ -1,4 +1,5 @@
 # hbot-ai
+Docker for `tensorflow and deepcut` installed
 
 ## How to use
 ```
